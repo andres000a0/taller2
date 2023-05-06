@@ -1,6 +1,6 @@
 # Taller 2
 
-####Integrantes #####
+##Integrantes
 
 - Wilder Andrés Murillo
 - Andrés Mosquera Rengifo
